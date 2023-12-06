@@ -1,3 +1,4 @@
+https://landingpage-foodie.vercel.app/
 ![image](https://github.com/jorgelira123/landingpage_FOODIE/assets/52551509/ec2eb99b-5832-45fa-9908-8ab2d6a4e182)
 
 
