@@ -1,3 +1,6 @@
+![image](https://github.com/jorgelira123/landingpage_FOODIE/assets/52551509/ec2eb99b-5832-45fa-9908-8ab2d6a4e182)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
